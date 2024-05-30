@@ -2,6 +2,8 @@
 
 Классическая змейка с отображением пользовательского счета.
 
+![snake-preview](https://github.com/vityan99/Snake-game/blob/main/preview.png)
+
 ## Содержание
 
 - [Технологии](#технологии)
