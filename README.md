@@ -4,6 +4,8 @@
 
 ![snake-preview](https://github.com/vityan99/Snake-game/blob/main/preview.png)
 
+Для просмотра в режиме онлайн перейдите по [ссылке](https://vityan99.github.io/Snake-game/)
+
 ## Содержание
 
 - [Технологии](#технологии)
